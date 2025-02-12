@@ -1,5 +1,10 @@
-## Hi there 👋
+## Hi there 👋 im ali sharifi
 
+I’m passionate about software development and always eager to learn new technologies.
+
+u can reach me at: ali.sharifi.dev@gmail.com
+
+REFACTORING
 <!--
 **ali-sharify/ali-sharify** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
